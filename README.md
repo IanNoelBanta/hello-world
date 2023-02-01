@@ -8,6 +8,7 @@ Hello World exercise to get started with GitHub
 - I am 21 years old.
 - Programming skillz: 0/10.
 - I am learning.
+- hatdog.
 
 
   
